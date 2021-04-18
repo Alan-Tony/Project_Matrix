@@ -1,0 +1,10 @@
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\bin\Debug\Interaction.exe.config
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\bin\Debug\Interaction.exe
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\bin\Debug\Interaction.pdb
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\bin\Debug\Functions.dll
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\bin\Debug\Functions.pdb
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\obj\Debug\MatProgram.csprojAssemblyReference.cache
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\obj\Debug\MatProgram.csproj.CoreCompileInputs.cache
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\obj\Debug\MatProgram.csproj.CopyComplete
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\obj\Debug\Interaction.exe
+C:\Internship\Alan_Tony\Project_Matrix\Interaction\obj\Debug\Interaction.pdb

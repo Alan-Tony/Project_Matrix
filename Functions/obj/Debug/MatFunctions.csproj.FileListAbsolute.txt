@@ -1,0 +1,11 @@
+C:\Internship\Alan_Tony\Project_Matrix\Functions\bin\Debug\Functions.dll
+C:\Internship\Alan_Tony\Project_Matrix\Functions\bin\Debug\Functions.pdb
+C:\Internship\Alan_Tony\Project_Matrix\Functions\obj\Debug\MatFunctions.csproj.CoreCompileInputs.cache
+C:\Internship\Alan_Tony\Project_Matrix\Functions\obj\Debug\Functions.dll
+C:\Internship\Alan_Tony\Project_Matrix\Functions\obj\Debug\Functions.pdb
+C:\Visual_Studio_Projects\Logosent_Internship\Project_Matrix\Functions\bin\Debug\Functions.dll
+C:\Visual_Studio_Projects\Logosent_Internship\Project_Matrix\Functions\bin\Debug\Functions.pdb
+C:\Visual_Studio_Projects\Logosent_Internship\Project_Matrix\Functions\obj\Debug\MatFunctions.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_Projects\Logosent_Internship\Project_Matrix\Functions\obj\Debug\Functions.dll
+C:\Visual_Studio_Projects\Logosent_Internship\Project_Matrix\Functions\obj\Debug\Functions.pdb
+C:\Visual_Studio_Projects\Logosent_Internship\Project_Matrix\Functions\obj\Debug\MatFunctions.csprojAssemblyReference.cache
